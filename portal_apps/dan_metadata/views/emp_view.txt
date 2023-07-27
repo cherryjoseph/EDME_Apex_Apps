@@ -1,1 +1,0 @@
-craete view on emp;
